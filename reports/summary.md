@@ -91,9 +91,7 @@ Insights like these can help businesses focus on improving the quality of their 
 The code generates a word cloud based on the reviews text in the dataset, allowing us to visually analyze the most common words used in the reviews. The larger the word in the cloud, the more frequently it appears in the reviews. This can provide insights into the overall sentiment of the customers, the most frequently mentioned product features or issues, and other important information that can help businesses improve their products and services. In the following example, you can see the word cloud for products with a rating greater than 4
 
 ### Additional Insights
-- The majority of individuals in the dataset are in their 30s.
-- The cities of residence vary across New York, San Francisco, and Los Angeles.
-
+- 
 ## Conclusion
 This analysis provides a basic understanding of the dataset, highlighting key statistics and trends. Further analysis and modeling could be pursued based on these initial findings.
 
